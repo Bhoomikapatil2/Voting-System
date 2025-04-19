@@ -7,9 +7,7 @@ MySQL Database (port – 3306)
 steps to set up :
 1.Open a terminal.
 
-2.Clone the repository by using the command
- git clone https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
- Download and install Ganache.
+2. Download and install Ganache.
 
 3.Create a workspace named developement, in the truffle projects section add truffle-config.js by clicking ADD PROJECT button.
 
